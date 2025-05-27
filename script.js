@@ -104,7 +104,5 @@ $(document).ready(function() {
             else
                 $('#player_message').text("Player O wins!");
         }
-
     });
-
 });
